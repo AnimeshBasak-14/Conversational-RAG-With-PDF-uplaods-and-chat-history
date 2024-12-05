@@ -38,7 +38,8 @@ To run the chatbot app, use the following command:
 ```bash
 streamlit run app.py
 ```
-## To enable chat history and session state: uncomment these lines:    
+## To enable chat history and session state:
+Uncomment these lines in app.py file to display the chat history and session data:    
 ```
 st.write(st.session_state.store)
 st.write("Chat History:", session_history.messages)
