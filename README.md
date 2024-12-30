@@ -1,5 +1,8 @@
 # RAG Q&A Conversation With PDF Including Chat History
 
+![Project Logo](img/project.png)
+
+
 This project integrates **Streamlit**, **Groq**, and **Langchain** to provide a Conversational Retrieval-Augmented Generation (RAG) system. Users can upload PDF documents, and the system allows interaction with the content by asking questions, all while maintaining chat history for context-aware responses.
 
 ## Prerequisites
